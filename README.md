@@ -16,7 +16,7 @@ Happy coding!
 | Yisheng (the Doctor) | yisheng_rag.ipynb | A simple RAG with each distinct step|
 | TBA | TBA | TBA |
 
-
+Disclaimer: The app is for educational purposes and not to be used for medical advice
 
 ## License
 
